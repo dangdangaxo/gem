@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: f312c9637cb8c3f4fa28266f6998c892
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 521
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbdfe7252075d24baf405f4e9531a1c
+      internalID: 1183241387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 521
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18191b6f60678c340adb3f83fde3cd4a
+      internalID: -163103044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 521
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f20ba9f04bb2840b347381dd7a482d
+      internalID: 990078090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 521
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b03fe1de83df4dbf0818f9cd32ac3
+      internalID: 2143390678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 514
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b294702f33af4949bbdecf0b029ea19
+      internalID: 1129742258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 517
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef04e22d62ad248baf77a586f2f02f
+      internalID: -915653701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 518
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb190e54d8c5ab9449a6aefbe9b4d68d
+      internalID: -961182239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 518
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a95fcfc79059143bbc494699015142
+      internalID: -1359234007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 514
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2dc025075e518429ea3324cc1e885d
+      internalID: -844962773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 517
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262c572f8a23e54e9b9bfcc0330d9b0
+      internalID: 1885853796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 518
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed76101f8aa9f4b971de1dbb491816
+      internalID: 1965178087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 517
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0505c3e8e6d3c43b8ba461fbd317ac
+      internalID: 2127989777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 418
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07429d0ea7a71b544ad82ff74d46116c
+      internalID: -1340329606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 418
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e8920486f6c444913f39470b4c626
+      internalID: -376755874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b5fc5a1a0d1145850b730f2853b26
+      internalID: -2046637063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 419
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec241d005c886e4f9bc723338eda89a
+      internalID: 149680743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 423
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c220ab45a0bfd1347bf1e7149ebcf23f
+      internalID: -214993124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 423
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2182e8b74de9545affb2cae51a2afd
+      internalID: 382438543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 422
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d229696cd26f24d98e928f5095f3dd
+      internalID: -2008692209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 423
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17848afe7bf19084e8abd3b12c4a7243
+      internalID: 2583006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_20
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 422
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826ae933e886a3418773300a2829be0
+      internalID: -904488120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 420
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f83db28110b6445b054c1442ee9058
+      internalID: -583473480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 420
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64043363bda75408d950203be5ec42
+      internalID: 1759484191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_23
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 420
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec64163325bc2c04abbd3e4f1ad0774c
+      internalID: 1237024055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 318
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7c8a88eb338e4eb9e22d79390592f
+      internalID: 375335739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 318
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972ae25b1aa5b444bcfae5b739f28f1
+      internalID: -1129119904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 318
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94712fccfd3ffc4a9a35d33e59786fc
+      internalID: -1379717951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 318
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32757054d576e0f44b89c136eab774db
+      internalID: -1091845888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 323
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95736d2c6b27fb64c96dcd6bd0d3c4ed
+      internalID: -38591998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 323
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164112d63488a346913d8e3ec2f5230
+      internalID: 1236978454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 322
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481abb0a56f2f64eb9592f00f842c9e
+      internalID: -1695810292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 323
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82452034fb0be4e8cb4e6bb0c7817b
+      internalID: 1030074094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 322
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298fa4a4e65c8543b5862181eabbc73
+      internalID: 466811141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_33
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 320
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5967fdadfbd46748aebb631346b54e1
+      internalID: 2031089522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 319
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67df1620e697eec458d9fbf52abaa74d
+      internalID: 2098078195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_35
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 320
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895fa0d6f030ff9419181ae2b5f9b462
+      internalID: 1601253833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 221
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad190197accebb44b5b1b6047193ca7
+      internalID: -1528845434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 221
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c420ac04116647a47a649dcb768de2d7
+      internalID: 1656874129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 221
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196af7f4be94a7842acb12bc54b0cf3c
+      internalID: 1383702057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 221
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e179cbf360c449b5481a87cc94fb4
+      internalID: -2088003847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 221
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d533584a00c84d85770693770235e
+      internalID: 1272784357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 224
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540788b4e98f7ce4198983793046009e
+      internalID: -769802215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_42
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 217
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5cc0827f6bdc942823b4210d06a3a5
+      internalID: 1119477053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_43
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 215
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc0270812562a4e8fe64c823d82671
+      internalID: 1379623518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_44
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 219
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001533e989a2e0439652f84449cef00
+      internalID: 2009232509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_45
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 222
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae787acd0e6e046b653ecda40eefb5
+      internalID: 1389188547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_46
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 219
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24deb7dbc3ddabf4dbcb798f6202f9d2
+      internalID: 125323217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_47
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 216
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d1fe04a656404c96d3a6a6af36b3b
+      internalID: -154812429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbacae7831105d40a0a354cf7c02f86
+      internalID: 1750816207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 107
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2abb77b71d832488569e1259d18ca7
+      internalID: -795864026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 112
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef7d06f877fd04e8672edb11a6821a
+      internalID: 774625543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 118
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a78093cc9849845beac8ce16e64460
+      internalID: 1610785311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 118
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e69ad1267734443aa6befe36da9f73
+      internalID: -356975687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_53
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 116
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882357258e387db4a880cecbe6216a6c
+      internalID: -1944361108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 119
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7327ee4e76d5444f9f76c0d84ab459b
+      internalID: -417637284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 116
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080f5500a2f4bd40a1c5efd2a990d93
+      internalID: -401458511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_57
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 119
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3498313c0c474e8a6ccc01bc43f0b
+      internalID: -1485967842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_58
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 121
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81508ac93d767749b822a2d90382c92
+      internalID: -122320453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_59
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 121
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1d6ffcf1451141aa28487e4f25cc5
+      internalID: -1869985070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Idle_Run_Attact_60
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 121
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1ae88920bd9a4aa6700ebf268d3c0
+      internalID: 1346137062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Char_Idle_Run_Attact_30: -1695810292
+      Char_Idle_Run_Attact_13: -376755874
+      Char_Idle_Run_Attact_4: 1129742258
+      Char_Idle_Run_Attact_7: -1359234007
+      Char_Idle_Run_Attact_27: -1091845888
+      Char_Idle_Run_Attact_35: 1601253833
+      Char_Idle_Run_Attact_3: 2143390678
+      Char_Idle_Run_Attact_10: 1965178087
+      Char_Idle_Run_Attact_48: 1750816207
+      Char_Idle_Run_Attact_58: -122320453
+      Char_Idle_Run_Attact_20: -904488120
+      Char_Idle_Run_Attact_36: -1528845434
+      Char_Idle_Run_Attact_25: -1129119904
+      Char_Idle_Run_Attact_40: 1272784357
+      Char_Idle_Run_Attact_43: 1379623518
+      Char_Idle_Run_Attact_56: -401458511
+      Char_Idle_Run_Attact_17: 382438543
+      Char_Idle_Run_Attact_8: -844962773
+      Char_Idle_Run_Attact_14: -2046637063
+      Char_Idle_Run_Attact_37: 1656874129
+      Char_Idle_Run_Attact_5: -915653701
+      Char_Idle_Run_Attact_52: -356975687
+      Char_Idle_Run_Attact_23: 1237024055
+      Char_Idle_Run_Attact_15: 149680743
+      Char_Idle_Run_Attact_2: 990078090
+      Char_Idle_Run_Attact_31: 1030074094
+      Char_Idle_Run_Attact_47: -154812429
+      Char_Idle_Run_Attact_53: -1944361108
+      Char_Idle_Run_Attact_6: -961182239
+      Char_Idle_Run_Attact_44: 2009232509
+      Char_Idle_Run_Attact_18: -2008692209
+      Char_Idle_Run_Attact_33: 2031089522
+      Char_Idle_Run_Attact_60: 1346137062
+      Char_Idle_Run_Attact_45: 1389188547
+      Char_Idle_Run_Attact_32: 466811141
+      Char_Idle_Run_Attact_46: 125323217
+      Char_Idle_Run_Attact_11: 2127989777
+      Char_Idle_Run_Attact_38: 1383702057
+      Char_Idle_Run_Attact_41: -769802215
+      Char_Idle_Run_Attact_28: -38591998
+      Char_Idle_Run_Attact_9: 1885853796
+      Char_Idle_Run_Attact_57: -1485967842
+      Char_Idle_Run_Attact_26: -1379717951
+      Char_Idle_Run_Attact_55: -417637284
+      Char_Idle_Run_Attact_49: -795864026
+      Char_Idle_Run_Attact_50: 774625543
+      Char_Idle_Run_Attact_12: -1340329606
+      Char_Idle_Run_Attact_22: 1759484191
+      Char_Idle_Run_Attact_16: -214993124
+      Char_Idle_Run_Attact_1: -163103044
+      Char_Idle_Run_Attact_29: 1236978454
+      Char_Idle_Run_Attact_42: 1119477053
+      Char_Idle_Run_Attact_59: -1869985070
+      Char_Idle_Run_Attact_39: -2088003847
+      Char_Idle_Run_Attact_0: 1183241387
+      Char_Idle_Run_Attact_51: 1610785311
+      Char_Idle_Run_Attact_19: 2583006
+      Char_Idle_Run_Attact_54: 833771254
+      Char_Idle_Run_Attact_34: 2098078195
+      Char_Idle_Run_Attact_21: -583473480
+      Char_Idle_Run_Attact_24: 375335739
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 89afd6afda22ccf4ab57df6408031717
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice projectile-_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c1d905502d414bbdf070c31aea2b1
+      internalID: 1855014572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ba6aa4b9c2de4e8c5d4a5c89f67c4
+      internalID: -2146131762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dceab33d6f8e241b68ef890cb82d6d
+      internalID: -311996291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e87ea8684af1148831c44b7cde2d7b
+      internalID: 844977924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957b9c504913b04d91f7fa050d782cb
+      internalID: -1973499196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123271285c6ad4542bb0ded22c214583
+      internalID: 957048816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714e23ea96a1a643914975fc4a8cb97
+      internalID: 1364939449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e7ba3c060a6841898e31376df98c6
+      internalID: 111376946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c318f22a41845e4fafdeb53f115c284
+      internalID: -655310976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd6f729856da04abdb4da9d6a854a9
+      internalID: -132980911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad765fbaf6dd5438c639d58b9883f6
+      internalID: 704531135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice projectile-_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 12.5}
+        - {x: -7.5, y: 12.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -4.5, y: -13.5}
+        - {x: 2.5, y: -13.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 11.5, y: -5.5}
+        - {x: 13.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722581dc1bfbf3d479daab6d2fe6e786
+      internalID: -1136939101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ice projectile-_6: 1364939449
+      ice projectile-_10: 704531135
+      ice projectile-_7: 111376946
+      ice projectile-_4: -1973499196
+      ice projectile-_9: -132980911
+      ice projectile-_11: -1136939101
+      ice projectile-_2: -311996291
+      ice projectile-_5: 957048816
+      ice projectile-_0: 1855014572
+      ice projectile-_1: -2146131762
+      ice projectile-_3: 844977924
+      ice projectile-_8: -655310976
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

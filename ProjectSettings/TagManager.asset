@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SawTrail
+  - Wall
+  - GateDungeon2
+  - GateDungeon3
+  - ExitGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Platform
+  - Wall
+  - Enemy
+  - Hazards
+  - Collectibles
+  - Stair
+  - BackGround
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3903294231
+    locked: 0
+  - name: Terrain
+    uniqueID: 756622151
+    locked: 0
+  - name: Platform
+    uniqueID: 1467424541
+    locked: 0
+  - name: Behind_Cellar
+    uniqueID: 155966601
+    locked: 0
+  - name: Wall
+    uniqueID: 1474580709
+    locked: 0
+  - name: PreviousWall
+    uniqueID: 302276207
+    locked: 0
+  - name: Stair
+    uniqueID: 1963846495
+    locked: 0
+  - name: Stair
+    uniqueID: 741098897
+    locked: 0
+  - name: Hazards
+    uniqueID: 1611266205
+    locked: 0
+  - name: SmallObjectsUnder
+    uniqueID: 1724304331
+    locked: 0
+  - name: SmallObjectsTop
+    uniqueID: 1205025655
+    locked: 0
+  - name: Projectiles
+    uniqueID: 441549741
+    locked: 0
+  - name: Enemy
+    uniqueID: 2591928165
+    locked: 0
+  - name: Player
+    uniqueID: 1522142483
+    locked: 0
+  - name: Door
+    uniqueID: 4168127525
+    locked: 0
+  - name: Collectibles
+    uniqueID: 4156257257
+    locked: 0
